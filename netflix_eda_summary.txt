@@ -1,0 +1,31 @@
+Netflix EDA Summary
+===================
+
+1. Distribution of Movies and TV Shows:
+   - Movies: 5377
+   - TV Shows: 2410
+
+2. Top 10 Genres on Netflix:
+   - International Movies: 2437
+   - Dramas: 2106
+   - Comedies: 1471
+   - International TV Shows: 1199
+   - Documentaries: 786
+   - Action & Adventure: 721
+   - TV Dramas: 704
+   - Independent Movies: 673
+   - Children & Family Movies: 532
+   - Romantic Movies: 531
+
+3. Growth of Movies and TV Shows (2015-2024):
+   - 2015: Movies=382, TV Shows=159
+   - 2016: Movies=642, TV Shows=240
+   - 2017: Movies=744, TV Shows=268
+   - 2018: Movies=734, TV Shows=387
+   - 2019: Movies=582, TV Shows=414
+   - 2020: Movies=411, TV Shows=457
+   - 2021: Movies=12, TV Shows=19
+
+4. Distribution of Movie Durations:
+   - Average Duration: 99.31 minutes
+   - Median Duration: 98.00 minutes
